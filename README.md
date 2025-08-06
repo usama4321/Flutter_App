@@ -1,16 +1,43 @@
 # demo_app
 
-A new Flutter project.
+# Flutter Appointment Booking App
 
-## Getting Started
+## 📱 Overview
+This Flutter app demonstrates a simple user flow from login to booking a stitching service appointment. It's designed for testing and demonstration purposes with hardcoded credentials and mock data.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- ✅ User login screen with validation
+- ✅ Dashboard with two services: Stitching and Alteration
+- ✅ Stitching appointment booking screen
+- ✅ Date and time picker integration
+- ✅ Confirmation screen showing appointment details
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🔐 Login Credentials
+
+- **Email:** `user@test.com`  
+- **Password:** `123456`
+
+---
+
+To run this Flutter project on your local machine, follow these steps:
+
+1. Clone the repository
+
+  - git clone https://github.com/usama4321/Flutter_App.git
+
+2. Navigate into the project directory
+
+  - cd Flutter_App
+
+3. Get Flutter dependencies
+
+  - flutter pub get
+
+4. Run the app
+
+- flutter run
